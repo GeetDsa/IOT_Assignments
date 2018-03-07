@@ -4,18 +4,25 @@ Programs and Guide to use various sensors with Raspberry Pi
 
 The PDF file give the details and the program to use the various sensors.
 
-The sensors/modules that were used are:
+### The sensors/modules that were used are:
 
 **GSM Module**
+
 **DHT11** - temperature and humidity sensor
+
 **Flame Sensor**
+
 **PIR** -(Proximity Sensor)
+
 **RFID MODULE**
+
 **Smoke Sensor**
+
 **Ultra Sound Sensor** - used for measuring the distance
+
 **Sound Sensor**
 
-Also a program is listed to interface the relay.
+Also a program is listed to interface the relay, however it doesn't contain any explaination.
 
 ### Acknowledgements:
 
